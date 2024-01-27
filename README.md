@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web Development.
-- 💬 Ask me about DSA/Algorithm
+- 💬 Ask me about DSA/Algorithm.
 - 🌱 My Skillset: 
 -   Frontend: HTML5, CSS3, Bootstrap, JavaScript, JQuery.
 -   Backend: NodeJS, ExpressJS, EJS.
